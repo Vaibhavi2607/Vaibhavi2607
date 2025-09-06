@@ -42,8 +42,10 @@
 
 ### GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Vaibhavi2607&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhavi2607&layout=compact&theme=radical)](https://github.com/Vaibhavi2607/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhavi2607&langs_count=5&theme=radical&hide=Jupyter%20Notebook,C++)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Vaibhavi2607&theme=radical)](https://git.io/streak-stats)
+![Metrics](https://github.com/Vaibhavi2607/Vaibhavi2607/blob/main/github-metrics.svg)
+
 
 ### Let’s connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhavi-daoo-962a7a24b/)
