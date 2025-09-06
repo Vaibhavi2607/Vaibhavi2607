@@ -4,8 +4,8 @@
 
 <!-- Badges / quick facts -->
 <p align="center">
-  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-Contact-informational?logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/your-handle/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"></a>
+  <a href="mailto:www.vaibhavidaoo@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-informational?logo=gmail"></a>
+  <a href="[https://www.linkedin.com/in/your-handle/](https://www.linkedin.com/in/vaibhavi-daoo-962a7a24b/)"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"></a>
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views" />
 </p>
 
@@ -29,9 +29,9 @@
 - 🔗 **Project C** — one-liner value / tech used
 
 ### GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=radical)](https://git.io/streak-stats)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Vaibhavi2607&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhavi2607&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Vaibhavi2607&theme=radical)](https://git.io/streak-stats)
 
 ### Let’s connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-handle/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhavi-daoo-962a7a24b/)
