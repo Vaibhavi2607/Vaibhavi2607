@@ -5,7 +5,7 @@
 <!-- Badges / quick facts -->
 <p align="center">
   <a href="mailto:www.vaibhavidaoo@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-informational?logo=gmail"></a>
-  <a href="[https://www.linkedin.com/in/your-handle/](https://www.linkedin.com/in/vaibhavi-daoo-962a7a24b/)"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"></a>
+  <a href="[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhavi-daoo-962a7a24b/)><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"></a>
   <img src="https://komarev.com/ghpvc/?username=Vaibhavi2607&label=Profile%20Views" />
 </p>
 
