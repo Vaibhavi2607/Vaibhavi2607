@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">Hi, I'm Vaibhavi 👋</h1>
-<p align="center">Aspiring Data Analyst • SDE • Cloud Enthusiast</p>
+<p align="center">Aspiring SDE • Cloud Enthusiast</p>
 
 <!-- Badges / quick facts -->
 <p align="center">
@@ -13,6 +13,10 @@
 - 🎓 Final-year B.Tech | Interested in Data/Backend/Cloud
 - 🛠️ Currently learning: Power BI, Power Apps, Power Automate, Python, Java, C++
 - 🌱 Open to: internships, collaborations, open-source
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="Coding">
+</p>
 
 ### Skills
 <!-- Replace with yours -->
