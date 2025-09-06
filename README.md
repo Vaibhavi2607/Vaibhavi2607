@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1 align="center">Hi, I'm Vaibhavi 👋</h1>
+<h1 align="center">Hi, I'm Vaibhavi Daoo 👋</h1>
 <p align="center">Aspiring SDE • Cloud Enthusiast</p>
 
 <!-- Badges / quick facts -->
@@ -10,7 +10,7 @@
 </p>
 
 ### About me
-- 🎓 Final-year B.Tech | Interested in Data/Backend/Cloud
+- 🎓 B.Tech Computer Engineering 2025 Passout | Interested in Data/Backend/Cloud
 - 🛠️ Currently learning: Power BI, Power Apps, Power Automate, Python, Java, C++
 - 🌱 Open to: internships, collaborations, open-source
 
